@@ -1,0 +1,4 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+56329e0195eb8df1d61a2ced249e623d,Athletics,Toronto Blue Jays,home,180,0.6490384340286255,0.8173076152801515,0.2270298931333754,True
+7e08f8c46ae533c3c09d2e5d1a37ac2b,San Francisco Giants,St. Louis Cardinals,home,-126,0.7354839444160461,0.3192013606192573,0.20109685719013212,False
+a58a90b8a19f48d680546cac451b77ec,Los Angeles Dodgers,Cincinnati Reds,away,154,0.48771268129348755,0.23879021048545834,0.07752928911865531,False
