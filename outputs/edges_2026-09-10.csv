@@ -1,0 +1,3 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+36a89478e8db28447dfe1b5d1f656477,Seattle Mariners,Texas Rangers,home,-121,0.7118644118309021,0.3001821075589204,0.18161017507314683,False
+01c6d0131073b3384f27ac03c02906e4,Philadelphia Phillies,Houston Astros,away,173,0.4563491940498352,0.24583329975605006,0.07105008663469654,False
