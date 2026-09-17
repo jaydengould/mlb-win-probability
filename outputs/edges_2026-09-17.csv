@@ -1,0 +1,7 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+04a2f236dde09215a7d5033c63178a44,Texas Rangers,Boston Red Sox,home,112,0.7118644118309021,0.5091525530815125,0.2273002469113895,True
+0e8da1c4233051485aceb65b1a5c417a,Colorado Rockies,San Diego Padres,home,180,1.0,1.8,0.5,True
+7147180b37c36caf2b4003b82c2d1afa,Los Angeles Angels,Minnesota Twins,home,-103,1.0,0.970873786407767,0.5,True
+86a852d517d266c4d6c74e570caffa06,New York Mets,Philadelphia Phillies,home,-125,0.8333333134651184,0.49999996423721316,0.3124999776482582,True
+b9c3b50472005c67c30de323cd8a5396,Houston Astros,Kansas City Royals,home,-145,0.7354838848114014,0.24271415019857479,0.1759677588939667,False
+da77890c919d4d7e049b450184fffb24,Chicago White Sox,Detroit Tigers,home,-110,0.7354838848114014,0.40410559827631165,0.22225807905197142,True
