@@ -1,0 +1,7 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+042985f4157bf2837a03506fd2fedeb7,Baltimore Orioles,Milwaukee Brewers,home,127,0.6025640964508057,0.3678204989433289,0.1448112200564287,False
+6b489bbf5b1f7acd0e5eea9f0d257d40,Colorado Rockies,Seattle Mariners,home,165,0.6666666865348816,0.7666667193174361,0.23232324827801096,True
+de26fcfdce286e11d0005c82ffdccce6,Houston Astros,Atlanta Braves,home,103,0.8510639071464539,0.7276597315073013,0.3532328793724764,True
+f383973af69817d515b481a52d17ff6d,St. Louis Cardinals,Washington Nationals,home,-103,0.9014636278152466,0.7766710334611171,0.3999855822324753,True
+fd0d48d248eb15ca70844bf48633f158,Texas Rangers,Toronto Blue Jays,home,121,1.0,1.21,0.5,True
+faeba6575c679e03be0a8b007d243848,Cleveland Guardians,Athletics,away,205,0.39743590354919434,0.21217950582504264,0.05175109898171772,False
