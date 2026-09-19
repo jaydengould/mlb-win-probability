@@ -1,0 +1,6 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+3ffa69e9cd90187364365a87f82ce273,Texas Rangers,Toronto Blue Jays,home,-104,0.7354838848114014,0.44267992789928734,0.2301935625076294,True
+48f35ed7b6b06b6341dc562001538504,Colorado Rockies,Seattle Mariners,home,130,0.5602836608886719,0.2886524200439453,0.11102016155536358,False
+a0d104e8bf314f79a38436433c2fa67a,Los Angeles Angels,Minnesota Twins,home,-106,0.8333333134651184,0.6194968167340981,0.32833331286907197,True
+dbab73eb54eeeb245023e7d6ff78a316,Pittsburgh Pirates,Kansas City Royals,home,-113,1.0,0.8849557522123894,0.5,True
+ee466ede63ff4aece0b2964d81a18297,Tampa Bay Rays,Boston Red Sox,away,138,0.5348837077617645,0.27302322447299954,0.09892145814239114,False
