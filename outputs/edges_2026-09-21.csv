@@ -1,0 +1,2 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+198233ed5390fadb40e84cac794551ab,Baltimore Orioles,Toronto Blue Jays,home,-106,0.7354838848114014,0.4293366063315913,0.2275484013557434,True
