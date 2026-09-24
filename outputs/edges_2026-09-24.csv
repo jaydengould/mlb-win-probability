@@ -1,0 +1,3 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+d1094cf64d0cccf98c76920fd2548c38,Athletics,Houston Astros,home,145,0.6490384340286255,0.5901441633701324,0.20349798736901117,True
+1b1dbd4e7d948a1910402a33850d77c8,Chicago Cubs,Miami Marlins,away,187,0.5,0.43500000000000005,0.1163101604278075,True
