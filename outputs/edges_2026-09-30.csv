@@ -1,0 +1,2 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+66c0c13a06424600557af241371043fc,San Diego Padres,Chicago Cubs,away,131,0.5942028760910034,0.37260864377021796,0.14221703960695342,False
