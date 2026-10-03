@@ -1,0 +1,3 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+1632ced04d65127cf6172d3a2c2e2d16,Los Angeles Dodgers,Atlanta Braves,away,192,0.4397163391113281,0.28397171020507805,0.07395096619923908,False
+347a2e725dd11a54a1d964eae3d04dd2,Milwaukee Brewers,San Diego Padres,away,185,0.4397163391113281,0.25319156646728525,0.06843015309926628,False
