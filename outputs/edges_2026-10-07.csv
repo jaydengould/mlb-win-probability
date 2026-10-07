@@ -1,0 +1,2 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+aa266da6f8d98646bc59d18ddbc5b2de,New York Yankees,Tampa Bay Rays,away,151,0.48771268129348755,0.2241588300466537,0.07422477816114362,False
