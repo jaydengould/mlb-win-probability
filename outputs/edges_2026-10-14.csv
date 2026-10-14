@@ -1,0 +1,2 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+622fd31d2c8178b025455656e0d2fb89,Los Angeles Dodgers,Milwaukee Brewers,away,154,0.48771268129348755,0.23879021048545834,0.07752928911865531,False
