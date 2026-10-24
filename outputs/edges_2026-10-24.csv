@@ -1,0 +1,2 @@
+game_id,home_team,away_team,bet_side,american_odds,model_prob,ev,kelly_fraction,high_confidence
+238f598685f7210fbfbbe3de39289264,Milwaukee Brewers,Tampa Bay Rays,home,-115,0.6490384340286255,0.21341968101003894,0.1227163165807724,False
